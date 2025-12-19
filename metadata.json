@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Tic-Tac-Toe Pro",
+  "description": "A high-end Tic-Tac-Toe experience featuring a chatty AI powered by Google Gemini. Play against a friend locally or challenge the AI which provides real-time commentary and strategic play.",
+  "requestFramePermissions": []
+}
